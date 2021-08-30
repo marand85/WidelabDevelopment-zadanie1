@@ -34,3 +34,11 @@ p {
     background-color: #070;
     color: #fff;
   }
+
+  footer {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      color: #fff;
+      text-align: center;
+  }
